@@ -1,3 +1,5 @@
+# API Planeta Conectado
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +73,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Historias de usuario
+
+- Como um usuario, eu posso criar postagens para iniciar o processo de adocao do animal que desejo doar;
+- Como um usuario, eu posso editar os postagens que eu criei;
+- Como um usuario, eu posso excluir os postagens que eu criei;
+- Como um usuario, eu posso falar com o autor de qualquer postagem para finalizar o processo de adocao ao animal;
+- Como um usuario, eu posso me comunicar com o autor de qualquer postagem via chat com proposito de finalizar o processo de adocao do animal;
